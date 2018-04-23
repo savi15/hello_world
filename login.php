@@ -19,6 +19,7 @@ include 'header.html';
                 height:240px;
             }
             #image img{
+                border:1px solid red;
                 height: 100px;
                 width: 100px;
             }

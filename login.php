@@ -17,8 +17,11 @@ include 'header.html';
                 border:1px solid black;
                 height:240px;
             }
+            form{
+                border:1px solid black;
+            }
             #image img{
-                border:1px solid red;
+                border:1px solid black;
                 height: 100px;
                 width: 100px;
             }
@@ -101,7 +104,7 @@ include 'header.html';
             </table>
         </form> </div>
         <!--changes to be checked-->
-        <input type="button" name="new" >
+
         <input type="button" name="new" id="new" value="neww">
     </body>
 </html>

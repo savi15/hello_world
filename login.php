@@ -18,6 +18,9 @@ include 'header.html';
                 border:1px solid black;
                 height:240px;
             }
+            form{
+                border:1px solid black;
+            }
             #image img{
                 border:1px solid red;
                 height: 100px;

@@ -29,7 +29,6 @@ include 'header.html';
         <div style="float:left; " >
             <img src="chat.png">
         </div>
-
         <div class="sign">
             <form  action="http://127.0.0.1/projects/?route=account/signup" method="post" >
                 <table>
@@ -92,7 +91,6 @@ include 'header.html';
                             <input type="text" id="dob" name="dob" >
                         </td>
                     </tr>
-
                     <tr>
                         <td><button id="submit" name="submit" onclick="return check()">submit</button><td>
                         <td> <input type="button" name="login" id="loginbtn" value="login" onclick="location.href = 'login.php'" style="margin-top:10px; "></td>
@@ -101,7 +99,7 @@ include 'header.html';
             </form> </div>
         <!--changes to be checked-->
         <input type="button" name="new" >
-      
+
     </body>
 </html>
 

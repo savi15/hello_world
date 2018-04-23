@@ -14,7 +14,6 @@ include 'header.html';
             img{position:relative;}
             .login{padding-top:50px;
                 background-color:#ccccff; 
-                
                 border:1px solid black;
                 height:240px;
             }

@@ -100,16 +100,6 @@ include 'header.html';
                 </tr>
             </table>
         </form> </div>
-               <form class="login" method="post" action="http://127.0.0.1/projects/?route=account/welcome">
-
-            <label id='welcome'><strong>WELCOME</strong></label><br>
-            <label>LOG IN</label><br>
-            <label>emailid : </label><input type="text" name="uname" id="uname"><br>
-            <label>password : </label><input type="password" name="lp" id="lp" style="margin-top:10px; "><br>
-            <input type="submit" name="login" id="logbtn" value="login"  style="margin-top:10px; ">
-            <input type="button" name="signup" id="signbtn" value="Sign Up" onclick="sliding()" >
-            <br><br>
-        </form>
         <!--changes to be checked-->
         <input type="button" name="new" id="new">
     </body>

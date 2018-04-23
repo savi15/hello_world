@@ -110,7 +110,8 @@ include 'header.html';
             <input type="button" name="signup" id="signbtn" value="Sign Up" onclick="sliding()" >
             <br><br>
         </form>
-      
+        <!--changes to be checked-->
+        <input type="button" name="new" id="new">
     </body>
 </html>
 

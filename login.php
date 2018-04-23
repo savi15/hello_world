@@ -19,6 +19,7 @@ include 'header.html';
                 height:240px;
             }
             #image img{
+                border:1px solid red;
                 height: 100px;
                 width: 100px;
             }
@@ -101,7 +102,11 @@ include 'header.html';
             </table>
         </form> </div>
         <!--changes to be checked-->
+<<<<<<< HEAD
         <input type="button" name="new" >
+=======
+        <input type="button" name="new" id="new" value="neww">
+>>>>>>> 4f3cc5c4e924007eb17f7848661e61f19a8ab41f
     </body>
 </html>
 

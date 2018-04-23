@@ -96,7 +96,6 @@ include 'header.html';
                     <tr>
                         <td><button id="submit" name="submit" onclick="return check()">submit</button><td>
                         <td> <input type="button" name="login" id="loginbtn" value="login" onclick="location.href = 'login.php'" style="margin-top:10px; "></td>
-
                     </tr>
                 </table>
             </form> </div>

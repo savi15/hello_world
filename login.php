@@ -102,7 +102,7 @@ include 'header.html';
             </table>
         </form> </div>
         <!--changes to be checked-->
-        <input type="button" name="new" id="new">
+        <input type="button" name="new" id="new" value="neww">
     </body>
 </html>
 
